@@ -1,0 +1,20 @@
+
+body {
+  
+    background-image: url('https://i.pinimg.com/originals/17/96/ef/1796ef0033df2a1bb61b02d731541119.gif');
+   background-size: cover;
+}
+
+
+#a {
+    height: 1000px; width: 40%;
+    border: 1px solid black;
+    padding: 40px;
+    font-size: 30px;
+   background-image: url('https://media1.tenor.com/m/A-xQ31GZ-RwAAAAd/cs-go.gif');
+   background-size: cover;
+   right: 30%;
+   position: absolute;
+   color: white;
+   text-align: center;
+}
